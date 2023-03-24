@@ -1,0 +1,23 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "discordjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arceprogramando/discordjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arceprogramando/discordjs/issues"
+  },
+  "homepage": "https://github.com/arceprogramando/discordjs#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
