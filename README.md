@@ -16,7 +16,7 @@ npm i discord.js
 En config.json
 
 {
-    "token": "MTA4ODg5MjEwMDM5OTA4NzcxNg.GKSm81.rgVTj6911dbTBIMDLtzZ3R9KohzY9ZznOSghDA",
+    "token": "",
     "reglas": "texto"
 }
 
