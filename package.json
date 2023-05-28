@@ -4,12 +4,16 @@
   "description": "Proyecto de testeo discord.js para practicar y generar un bot funcional de prueba en discord",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0"
   }
 }
